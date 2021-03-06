@@ -20,14 +20,15 @@ ZCZC W00  10 L14 Assignment #4
 ZCZC W01  20 L00 General Log
 ZCZC W01  30 L01 SCELE Related
 ZCZC W01  90 L02 ZOOM related
-ZCZC W01  30 L05 more GSGS
-ZCZC W01  60 L08 Trying Something
+ZCZC W01  20 L03 GitHub related
+ZCZC W01  60 L05 more GSGS
+ZCZC W01  80 L08 Trying Something
 ZCZC W01 105 L11 Assignment #1 : Create or Import A Guest
 ZCZC W01  20 L12 Assignment #2 : The ATM Way
 ZCZC W01  50 L13 Assignment #3 : Log into the guest and learn/try basic CLI commands
-ZCZC W01  15 L14 Assignment #4 : Guest username and .bash_aliases 
+ZCZC W01  20 L14 Assignment #4 : Guest username and .bash_aliases 
 ZCZC W01  15 L15 Assignment #5 : Git & GitHub Repos
 ZCZC W01  10 L16 Assignment #6 : Update and push back mylog.txt
 ZCZC W01 200 L17 Assignment #7 : Create file w01.md for top 10 list + GSGS + ATM
-ZCZC W01  45 L18 Assignment #8 : Try/learn some more CLI commands, regex, awk, sed, vi, etc.
+ZCZC W01  60 L18 Assignment #8 : Try/learn some more CLI commands, regex, awk, sed, vi, etc.
 ZCZC W01  50 L19 Assignment #9 : Read OS10 chapter 1,2,18
