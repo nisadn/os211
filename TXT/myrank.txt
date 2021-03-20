@@ -2,7 +2,6 @@
 ZCZC W01 Originica
 ZCZC W01 RadhiansyaZ
 ZCZC W01 ni-tami
-ZCZC W03 prajnapras19
-ZCZC W03 Originica
-ZCZC W03 Pinatnat
-
+ZCZC W02 prajnapras19
+ZCZC W02 Originica
+ZCZC W02 Pinatnat
