@@ -46,3 +46,13 @@ ZCZC W02  15 L19 Assignment #9  : Update mylog.txt
 ZCZC W02  12 L20 Assignment #10 : Make SHA256SUM and sign it
 ZCZC W02 150 L22 Youtube : study
 ZCZC W02  30 L23 Discord : read discussions
+ZCZC W03  10 L00 General Log
+ZCZC W03  45 L01 SCELE : Weekly check, Pop Quiz
+ZCZC W03 100 L02 ZOOM : class
+ZCZC W03  30 L11 Assignment #1 : read ch13,14,15
+ZCZC W03  25 L12 Assignment #2 : Try Demos Week 02 and Week 03
+ZCZC W03   5 L13 Assignment #3 : update .bash_aliases
+ZCZC W03  20 L14 Assignment #4 : Pick 3 neighbors to be in myrank
+ZCZC W03 240 L15 Assignment #5 : Update my TOP 10 List of Week 03
+ZCZC W03  10 L16 Assignment #6 : Update mylog.txt
+ZCZC W03  40 L23 Discord : Pop Quiz, read discussions
