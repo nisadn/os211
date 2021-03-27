@@ -59,3 +59,16 @@ ZCZC W03  15 L17 Assignment #7 : Download https://os.vlsm.org/WEEK/W03.tar.bz2.a
 ZCZC W03   5 L18 Assignment #8 : Update bash script
 ZCZC W03   5 L19 Assignment #9 : Make SHA256SUM and sign it
 ZCZC W03  40 L23 Discord : Pop Quiz, read discussions
+ZCZC W04  10 L00 General Log
+ZCZC W04  20 L01 SCELE : Weekly check, Pop Quiz
+ZCZC W04 100 L02 ZOOM : class
+ZCZC W04  45 L08 Trying something
+ZCZC W04  30 L11 Assignment #1 : read ch9
+ZCZC W04  40 L12 Assignment #2 : Try Demos Week 04 and before
+ZCZC W04  10 L13 Assignment #3 : Pick 3 neighbors to be in myrank
+ZCZC W04 240 L14 Assignment #4 : Update my TOP 10 List of Week 04
+ZCZC W04  15 L15 Assignment #5 : Update mylog.txt
+ZCZC W04  15 L16 Assignment #6 : WEEK04.tar.bz2.asc
+ZCZC W04   5 L17 Assignment #7 : Update bash script
+ZCZC W04   5 L18 Assignment #8 : Make SHA256SUM and sign it
+ZCZC W04  50 L23 Discord : Pop Quiz, read discussions
