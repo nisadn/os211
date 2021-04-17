@@ -78,8 +78,20 @@ ZCZC W05 110 L02 ZOOM : class
 ZCZC W05  60 L08 Trying something : demo week05, set top display, try lowering RAM size
 ZCZC W05  40 L11 Assignment #1 : read ch10
 ZCZC W05  10 L12 Assignment #2 : Pick 3 neighbors to be in myrank
-ZCZC W05 280 L13 Assignment #3 : Update my TOP 10 List of Week 04
+ZCZC W05 280 L13 Assignment #3 : Update my TOP 10 List of Week 05
 ZCZC W05  25 L14 Assignment #4 : WEEK05.tar.bz2.asc
 ZCZC W05  15 L15 Assignment #5 : Update mylog.txt
 ZCZC W05   5 L16 Assignment #6 : Make SHA256SUM and sign it
 ZCZC W05  45 L23 Discord : Pop Quiz, read discussions
+ZCZC W06  20 L00 General Log
+ZCZC W06  60 L01 SCELE : Weekly check, Pop Quiz
+ZCZC W06 115 L02 ZOOM : class
+ZCZC W06  45 L08 Trying something : demo week06
+ZCZC W06  50 L11 Assignment #1 : read ch3 and ch4
+ZCZC W06  10 L12 Assignment #2 : Pick 3 neighbors to be in myrank
+ZCZC W06 300 L13 Assignment #3 : Update my TOP 10 List of Week 06
+ZCZC W06  20 L14 Assignment #4 : WEEK06.tar.bz2.asc
+ZCZC W06  15 L15 Assignment #5 : Update mylog.txt
+ZCZC W06   5 L16 Assignment #6 : Make SHA256SUM and sign it
+ZCZC W06  60 L22 Youtube : relax
+ZCZC W06  40 L23 Discord : read discussions, etc.
