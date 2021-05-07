@@ -95,3 +95,15 @@ ZCZC W06  15 L15 Assignment #5 : Update mylog.txt
 ZCZC W06   5 L16 Assignment #6 : Make SHA256SUM and sign it
 ZCZC W06  60 L22 Youtube : relax
 ZCZC W06  40 L23 Discord : read discussions, etc.
+ZCZC W07  20 L00 General Log
+ZCZC W07  50 L01 SCELE : Weekly check, Pop Quiz
+ZCZC W07 115 L02 ZOOM : class
+ZCZC W07  63 L08 Trying something : demo week07,08
+ZCZC W07  40 L11 Assignment #1 : read ch6, ch7 and ch8
+ZCZC W07   5 L12 Assignment #2 : Pick 3 neighbors to be in myrank
+ZCZC W07 210 L13 Assignment #3 : Update my TOP 10 List of Week 07
+ZCZC W07  50 L14 Assignment #4 : WEEK07.tar.bz2.asc
+ZCZC W07  15 L15 Assignment #5 : Update mylog.txt
+ZCZC W07   5 L16 Assignment #6 : Make SHA256SUM and sign it
+ZCZC W07  60 L22 Youtube : relax
+ZCZC W07  45 L23 Discord : read discussions, etc.
